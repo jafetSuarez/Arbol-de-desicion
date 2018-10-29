@@ -1,0 +1,7 @@
+C:\Users\Jafet\Desktop\ArbolDecision\ArbolDecision\bin\Debug\ArbolDecision.exe.config
+C:\Users\Jafet\Desktop\ArbolDecision\ArbolDecision\bin\Debug\ArbolDecision.exe
+C:\Users\Jafet\Desktop\ArbolDecision\ArbolDecision\bin\Debug\ArbolDecision.pdb
+C:\Users\Jafet\Desktop\ArbolDecision\ArbolDecision\obj\Debug\ArbolDecision.csprojAssemblyReference.cache
+C:\Users\Jafet\Desktop\ArbolDecision\ArbolDecision\obj\Debug\ArbolDecision.csproj.CoreCompileInputs.cache
+C:\Users\Jafet\Desktop\ArbolDecision\ArbolDecision\obj\Debug\ArbolDecision.exe
+C:\Users\Jafet\Desktop\ArbolDecision\ArbolDecision\obj\Debug\ArbolDecision.pdb
